@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="56" viewBox="0 0 200 56" role="img"><title>TELEGRAM @ScyxD</title>
+<defs></defs>
+<style></style>
+
+<rect x=".5" y=".5" width="199" height="55" rx="14" fill="#2AABEE" fill-opacity=".08" stroke="#2AABEE" stroke-opacity=".55"/>
+<rect x="12" y="12" width="32" height="32" rx="9" fill="#2AABEE" fill-opacity=".16"/>
+<g transform="translate(19 19) scale(0.750)" fill="none" stroke="#2AABEE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></g>
+<text x="56" y="25" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1.4" fill="#8b949e">TELEGRAM</text>
+<text x="56" y="43" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">@ScyxD</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190" role="img"><title>Let's connect</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121923"/><stop offset="1" stop-color="#1a1230"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<filter id="bl" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="45"/></filter>
+<clipPath id="cp"><rect width="860" height="190" rx="18"/></clipPath></defs>
+<style>
+.fl{animation:fl 8s ease-in-out infinite}
+@keyframes fl{0%,100%{transform:translate(0,0)}50%{transform:translate(-30px,10px)}}
+</style>
+
+<g clip-path="url(#cp)">
+<rect width="860" height="190" fill="url(#bg)"/>
+<circle class="fl" cx="760" cy="40" r="120" fill="#00f5ff" opacity=".2" filter="url(#bl)"/>
+<circle class="fl" cx="80" cy="180" r="110" fill="#a855f7" opacity=".22" filter="url(#bl)" style="animation-delay:-3s"/>
+<rect width="860" height="3" fill="url(#ln)"/>
+<rect x="36" y="36" width="64" height="64" rx="18" fill="#00f5ff" fill-opacity=".12" stroke="#00f5ff" stroke-opacity=".5"/>
+<g transform="translate(52 52) scale(1.333)" fill="none" stroke="#00f5ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></g>
+<text x="124" y="62" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="#e6edf3">Have a bot idea or an API to scale?</text>
+<text x="124" y="92" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8b949e">Let's build something fast, async and clean. Message me anytime.</text>
+<line x1="36" y1="128" x2="824" y2="128" stroke="#242b36"/>
+<text x="36" y="162" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#00f5ff">"I don't just write code - I architect behavior."</text>
+</g>
+<rect x=".5" y=".5" width="859" height="189" rx="18" fill="none" stroke="#242b36"/>
+</svg>
